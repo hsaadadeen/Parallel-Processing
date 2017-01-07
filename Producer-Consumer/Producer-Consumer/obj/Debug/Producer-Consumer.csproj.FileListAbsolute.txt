@@ -1,0 +1,6 @@
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\bin\Debug\Producer-Consumer.exe.config
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\bin\Debug\Producer-Consumer.exe
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\bin\Debug\Producer-Consumer.pdb
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\obj\Debug\Producer-Consumer.csprojResolveAssemblyReference.cache
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\obj\Debug\Producer-Consumer.exe
+E:\4-1\Parallel Processing\Project\Producer-Consumer\Producer-Consumer\obj\Debug\Producer-Consumer.pdb
